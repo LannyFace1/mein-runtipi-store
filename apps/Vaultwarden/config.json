@@ -1,0 +1,5 @@
+{
+  "id": "vaultwarden",
+  "name": "Vaultwarden",
+  "composeFile": "docker-compose.yml"
+}
